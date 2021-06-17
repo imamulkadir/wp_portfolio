@@ -40,7 +40,7 @@
 #### Contact Form (pop up)
 <p align="center"> 
   <kbd>
-    <img src="website_images/contactPage.png">
+    <img src="website_images/contact.png">
   </kbd>
 </p>
 
